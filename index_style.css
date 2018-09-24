@@ -1,0 +1,69 @@
+body{
+	background-color: white;
+	font-family:"Tahoma";
+	font-size:18px;
+	margin-right: 40px;
+	margin-left:40px;
+	margin-bottom:40px;
+}
+
+h1{
+	font-size:50px;
+	text-align:center;
+	font-family:"Tahoma";
+	font-weight:normal;
+	font-style:italic;
+	letter-spacing:5px;
+	border-top:3px solid #CC6600;
+	border-bottom:3px solid #CC6600;
+	border-width:30px;
+	padding:10px;
+
+}
+
+img{
+	margin-top:100px;
+	display: block;
+	max-width: 50%;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+a:link{
+	text-decoration:none;
+	color:#CC6600;
+	background-color:black;
+	padding-right:5px;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:3px;
+	text-align:center;
+	letter-spacing:5px;
+}
+
+a:visited{
+	color:#CC6600;
+
+}
+
+.resume{
+	position: absolute;
+	top:61%;
+	right:10%;
+}
+
+.bio{
+	position: absolute;
+	top:61%;
+	left:10%;
+}
+
+.sayhi{
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:line-through;
+	position: absolute;
+	right:50%;
+	top:56%;
+}
